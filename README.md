@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-I'm Armağan if you dont know how to pronounce my name also you can call me Armi 😄. I live in Istanbul Turkey and most inspiring  to me in life is coding. I love exploring new things in programming world . You can check my some of projects and also you can contact with me in my social media accounts. Have nice day  🙂 🙃    
+I'm Armağan if you dont know how to pronounce my name also you can call me Armi 😄. I live in Istanbul Turkey and most inspiring  to me in life is coding. I love exploring new things in the programming world . You can check my some of projects and also you can contact with me in my social media accounts. Have nice day  🙂 🙃    
 
 ### Social Medias
 
