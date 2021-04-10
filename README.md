@@ -6,7 +6,7 @@ I'm Armağan if you dont know how to pronounce my name also you can call me Armi
 
 <a href="https://www.linkedin.com/in/arma%C4%9Fan-%C5%9Fahin/"><img src="https://i.hizliresim.com/EArCqX.png"></a>
 <a href="mailto:armagan.sahin95@gmail.com"><img src="https://i.hizliresim.com/mISeXV.png"></a>
-<img src="https://hizliresim.com/PaMHtQ][img]https://i.hizliresim.com/PaMHtQ.png">
+<img src="https://i.hizliresim.com/PaMHtQ.png">
 
 
 <!--
