@@ -1,8 +1,8 @@
-### Social Medias
+<!--### Social Medias
 
 <a href="www.linkedin.com/in/armagan-sahin"><img src="https://i.hizliresim.com/l0v7Kd.png"></a>
 <a href="mailto:armagan.sahin95@gmail.com"><img src="https://i.hizliresim.com/rjXS83.png"></a>
-<!--<a href="https://www.instagram.com/armagan.sahin95/"><img src="https://i.hizliresim.com/PaMHtQ.png"></a>
+<a href="https://www.instagram.com/armagan.sahin95/"><img src="https://i.hizliresim.com/PaMHtQ.png"></a>
 
 <!--
 **armagansahin1/armagansahin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
